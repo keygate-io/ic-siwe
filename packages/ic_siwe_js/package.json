@@ -1,6 +1,6 @@
 {
   "name": "@keygate/ic-siwe",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "JS/TS/React support library for easy frontend integration with SIWE enabled Internet Computer canisters.",
   "author": "Kristofer Lund <kristofer@kristoferlund.se>",
   "repository": {
